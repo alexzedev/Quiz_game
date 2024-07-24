@@ -15,3 +15,5 @@ How to play:
 2. Answer the questions to the best of your ability
 3. Keep track of your score and try to beat your high score
 4. Have fun and learn about physics!
+
+![alt text](https://github.com/alexzedev/Quiz_game/blob/main/quiz_game_screen.png?raw=true)
