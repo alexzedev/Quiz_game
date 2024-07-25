@@ -18,6 +18,13 @@ How to play:
 
 ![alt text](https://github.com/alexzedev/Quiz_game/blob/main/quiz_game_screen.png?raw=true)
 
+Technical details:
+
+* Built using Python 3.11
+* Uses the Random library 
+* Designed for Windows, macOS, and Linux platforms
+
+
 Contributing:
 
 If you'd like to contribute to the game, please fork the repository and submit a pull request with your changes. We welcome new questions, bug fixes, and improvements to the game!
